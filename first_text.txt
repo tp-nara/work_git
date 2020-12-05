@@ -1,2 +1,5 @@
 Git
 GitGit
+ÅEgit add
+ÅEgit commit
+ÅEgit commit_02
