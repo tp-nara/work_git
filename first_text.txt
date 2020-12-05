@@ -3,3 +3,4 @@ GitGit
 ・git add
 ・git commit
 ・git commit_02
+・git rm
