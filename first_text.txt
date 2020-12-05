@@ -5,3 +5,4 @@ GitGit
 ・git commit_02
 ・git rm
 ・git status
+・git diff
